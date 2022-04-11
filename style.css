@@ -92,12 +92,13 @@ p {
     width: 120px;
     height: 40px;
     border-radius: 20px;
-    border: solid 1px var(--very-light-gray);
+    /* border: solid 1px var(--very-light-gray); */
     text-align: center;
     position: absolute;
     bottom: 40px;
     padding: 7px;
     transition: 200ms ease-in;
+    background: var(--very-light-gray);
     cursor: pointer;
 }
 
@@ -108,17 +109,17 @@ p {
     text-transform: none;
 }
 
-.card1 .learnmore:hover {
+.card1 .learnmore {
     background: var(--very-light-gray);
     color: var(--bright-orange);
 }
 
-.card2 .learnmore:hover {
+.card2 .learnmore {
     background: var(--very-light-gray);
     color: var(--dark-cyan);
 }
 
-.card3 .learnmore:hover {
+.card3 .learnmore {
     background: var(--very-light-gray);
     color: var(--very-dark-cyan);
 }

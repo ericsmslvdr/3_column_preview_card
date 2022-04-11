@@ -4,5 +4,5 @@
 
 ## My Output! 👋
 
-![Design preview of my output](./design/my-output.png)
+![Design preview of my output](./design/my-output2.png)
 

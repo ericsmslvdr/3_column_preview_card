@@ -2,7 +2,7 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Hi! 👋
+## My Output! 👋
 
 ![Design preview of my output](./design/my-output.png)
 
